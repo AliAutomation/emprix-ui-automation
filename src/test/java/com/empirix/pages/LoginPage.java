@@ -20,9 +20,11 @@ public class LoginPage extends AbstractBasePage<LoginPage> {
 	}
 
 	@Step
-	public DashboardPage search(String query) {
-		LOG.info("searching query '{}'", query);
-		driver.findElement(getLocator("search_field")).sendKeys(query, Keys.ENTER);
+	public DashboardPage search(String username,String password) {
+		LOG.info("User enter username and password '{}'", username,password);
+		driver.findElement(getLocator("username_field.xpath")).sendKeys(username);
+		driver.findElement(getLocator("password_field.xpath")).sendKeys(password);
+		driver.findElement(getLocator("signin_button.xpath")).click();
 		return new DashboardPage(driver).get();
 	}
 
