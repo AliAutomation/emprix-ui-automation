@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37d9f51d-e3a5-4832-82f2-09455553ab83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZNDE8Eo4SDflyINlGdjyNAyvL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37d9f51d-e3a5-4832-82f2-09455553ab83" name="Default Changelist" comment="" />
+      <created>1586939034491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586939034491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586940219605">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1586940219605" />
+    <state x="321" y="81" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586940873593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="81" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1586940873593" />
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586945530742">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689@0.0.1280.689" timestamp="1586945530742" />
+    <state x="420" y="100" key="FileChooserDialogImpl" timestamp="1586940153620">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="420" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586940153620" />
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586941053587">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1586941053587" />
+  </component>
+</project>

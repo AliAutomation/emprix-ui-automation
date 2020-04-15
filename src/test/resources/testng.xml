@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI Test Suite" parallel="classes" thread-count="10">
+
+	<listeners>
+		<listener class-name="com.empirix.utils.SummaryReport" />
+	</listeners>
+
+	<test name="Sample UI Test - Desktop" parallel="classes">
+		<classes>
+			<class name="com.empirix.test.TestLoginPage" />
+			<class name="com.empirix.test.TestDashboardPage" />
+		</classes>
+	</test>
+</suite>  
